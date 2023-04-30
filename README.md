@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hacker-Ak</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div align="center">
-	<a href="https://github.com/P-Ankitkrishna/P-Ankitkrishna/main/header.svg">
+	<a href="https://github.com/P-Ankitkrishna/P-Ankitkrishna/header.svg">
 		<img src="header.svg" width="800" height="100">
 	</a>
 	<br>
