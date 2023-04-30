@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hacker-Ak</h1>
 <h3 align="center">A passionate developer from India</h3>
-<div align="center">
-	<a href="https://github.com/P-Ankitkrishna/P-Ankitkrishna/header.svg">
-		<img src="header.svg" width="800" height="100">
-	</a>
-	<br>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker-ak&label=Profile%20views&color=0e75b6&style=flat" alt="hacker-ak" /> </p>
 
